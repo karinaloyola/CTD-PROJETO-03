@@ -1,13 +1,13 @@
 ## Table of contents
 
-- [Overview](#overview)
+-   [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
   
 
-## Overview
+### Overview
 
 Web page with an interactive card details form
 
